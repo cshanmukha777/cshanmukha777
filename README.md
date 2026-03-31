@@ -1,62 +1,87 @@
-# Hi 👋 I'm Shanmukha Sai
+<h1 align="center">Hi 👋, I'm Shanmukha Sai</h1>
+<h3 align="center">🚀 AI & ML Student | Web Developer | Building Real-World Projects</h3>
 
-🚀 AI & ML Student | Web Developer | Building Real-World Projects
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Student;Web+Developer;Open+Source+Learner;Building+Real+World+Projects&center=true&width=500&height=50)
-
----
-
-## 🚀 About Me
-
-🎓 B.Tech CSE (AI & ML) — Newton School of Technology  
-💡 Passionate about AI, Web Development & Real-World Projects  
-🌱 Currently Learning: Computer Vision & Blockchain  
-🏆 3rd Place — Quick Snatch 2.0 Tech Event  
-👨‍💻 Building Projects using React & JavaScript  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Student;Web+Developer;Computer+Vision+Learner;Open+Source+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=50&color=00FF00">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
----
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+- 🎓 B.Tech CSE (AI & ML) — Newton School of Technology  
+- 💡 Passionate about AI, Web Development & Real-World Projects  
+- 🌱 Currently Learning: Computer Vision & Blockchain  
+- 🏆 3rd Place — Quick Snatch 2.0 Tech Event  
+- 👨‍💻 Building Projects using React, JavaScript & Python  
+- ⚡ Goal: Become AI Engineer  
 
 ---
 
-## 🚀 Projects
+# 🚀 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react" />
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cshanmukha777&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cshanmukha777&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=cshanmukha777&theme=chartreuse-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ### 🤖 AI Chat Application
-- Built using Hugging Face API
-- Conversational UI
-- Deployed on Netlify
+- Built using Hugging Face API  
+- Conversational UI  
+- Deployed on Netlify  
 
 ### 📸 Photography Portfolio
-- Responsive website
-- Built using HTML & CSS
-- Hosted on Vercel
+- Responsive Website  
+- Built using HTML & CSS  
+- Hosted on Vercel  
 
 ---
 
-## 🌍 Connect With Me
+# 🌐 Connect With Me
 
-LinkedIn:  
-https://www.linkedin.com/in/shanmukha-sai-87175031b/
+<p align="left">
+<a href="https://www.linkedin.com/in/shanmukha-sai-87175031b/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
-GitHub:  
-https://github.com/cshanmukha777
+<a href="https://github.com/cshanmukha777" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+</p>
 
 ---
 
