@@ -1,6 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=250&section=header&text=Shanmukha%20Sai&fontSize=45&fontColor=00ffff&animation=fadeIn&desc=AI%20Engineer%20in%20Progress&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Shanmukha%20Sai&font=Orbitron&fontSize=50&fontColor=00ffff&animation=twinkling&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=20"/>
 </p>
+
+
 <h1 align="center">Hi 👋, I'm Shanmukha Sai</h1>
 <h3 align="center">🚀 AI & ML Student | Web Developer | Building Real-World Projects</h3>
 
