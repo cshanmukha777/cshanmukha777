@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Shanmukha%20Sai&fontColor=00ff00&fontSize=40&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ff00&height=250&section=header&text=Shanmukha%20Sai&fontSize=45&fontColor=00ff00&animation=fadeIn&stroke=00ff00&strokeWidth=2"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Shanmukha Sai</h1>
