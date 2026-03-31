@@ -12,7 +12,7 @@
 💡 Passionate about AI, Web Development & Real-World Projects  
 🌱 Currently Learning: Computer Vision & Blockchain  
 🏆 3rd Place — Quick Snatch 2.0 Tech Event  
-👨‍💻 Building Projects using Python & JavaScript  
+👨‍💻 Building Projects using React & JavaScript  
 
 ---
 
@@ -47,20 +47,6 @@
 - Responsive website
 - Built using HTML & CSS
 - Hosted on Vercel
-
----
-
-## 📊 GitHub Stats
-
-![Shanmukha's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshanmukha777&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cshanmukha777&layout=compact&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=cshanmukha777&theme=radical)
 
 ---
 
