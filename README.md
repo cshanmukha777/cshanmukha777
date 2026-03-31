@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech CSE (AI & ML) — Newton School of Technology  
 - 💡 Passionate about AI, Web Development & Real-World Projects  
-- 🌱 Currently Learning: Computer Vision & Blockchain  
+- 🌱 Currently Learning: Data Structures & Algorithms and Full-Stack Development  
 - 🏆 3rd Place — Quick Snatch 2.0 Tech Event  
 - 👨‍💻 Building Projects using React, JavaScript & Python  
 - ⚡ Goal: Become AI Engineer  
