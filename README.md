@@ -13,28 +13,12 @@
 
 # 👨‍💻 About Me
 
-```bash
-┌──(shanmukha㉿github)-[~/profile]
-└─$ whoami
-Shanmukha Sai
-
-┌──(shanmukha㉿github)-[~/profile]
-└─$ role
-AI & ML Student | Web Developer
-
-┌──(shanmukha㉿github)-[~/profile]
-└─$ currently_learning
-Data Structures & Algorithms
-Full Stack Development
-
-┌──(shanmukha㉿github)-[~/profile]
-└─$ tech_stack
-Python | JavaScript | React
-
-┌──(shanmukha㉿github)-[~/profile]
-└─$ goal
-Become AI Engineer
-```
+- 🎓 B.Tech CSE (AI & ML) — Newton School of Technology  
+- 💡 Passionate about AI, Web Development & Real-World Projects  
+- 🌱 Currently Learning: Data Structures & Algorithms and Full-Stack Development  
+- 🏆 3rd Place — Quick Snatch 2.0 Tech Event  
+- 👨‍💻 Building Projects using React, JavaScript & Python  
+- ⚡ Goal: Become AI Engineer  
 
 ---
 
@@ -52,26 +36,6 @@ Become AI Engineer
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cshanmukha777&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cshanmukha777&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=cshanmukha777&theme=chartreuse-dark&hide_border=true"/>
 </p>
 
 ---
