@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋 I'm Shanmukha Sai
 
-<!--
-**cshanmukha777/cshanmukha777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI & ML Student | Web Developer | Building Real-World Projects
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Student;Web+Developer;Open+Source+Learner;Building+Real+World+Projects&center=true&width=500&height=50)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+🎓 B.Tech CSE (AI & ML) — Newton School of Technology  
+💡 Passionate about AI, Web Development & Real-World Projects  
+🌱 Currently Learning: Computer Vision & Blockchain  
+🏆 3rd Place — Quick Snatch 2.0 Tech Event  
+👨‍💻 Building Projects using Python & JavaScript  
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI Chat Application
+- Built using Hugging Face API
+- Conversational UI
+- Deployed on Netlify
+
+### 📸 Photography Portfolio
+- Responsive website
+- Built using HTML & CSS
+- Hosted on Vercel
+
+---
+
+## 📊 GitHub Stats
+
+![Shanmukha's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshanmukha777&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cshanmukha777&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=cshanmukha777&theme=radical)
+
+---
+
+## 🌍 Connect With Me
+
+LinkedIn:  
+https://www.linkedin.com/in/shanmukha-sai-87175031b/
+
+GitHub:  
+https://github.com/cshanmukha777
+
+---
+
+⭐ From Shanmukha Sai
