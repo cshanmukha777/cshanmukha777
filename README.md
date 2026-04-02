@@ -76,6 +76,20 @@ Tech Stack:
 
 ---
 
+## 🎬 Movie Watchlist App
+🔗 https://github.com/cshanmukha777/Movie-Watchlist-App
+
+- Movie search  
+- Add to watchlist  
+- Remove movies  
+- API Integration  
+- Responsive UI  
+
+Tech Stack:  
+HTML • CSS • JavaScript • Movie API
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
