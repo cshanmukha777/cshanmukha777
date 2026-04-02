@@ -63,6 +63,19 @@
 
 ---
 
+## 📅 Smart Exam Timetable Scheduler
+🔗 https://github.com/cshanmukha777/Smart-Exam-Timetable-Scheduler
+
+- AI-Assisted exam timetable generation  
+- Conflict detection  
+- Rule-based scheduling  
+- Smart optimization  
+
+Tech Stack:  
+ Scheduling Logic • AI-Assisted System
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
